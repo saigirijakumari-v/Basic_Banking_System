@@ -1,12 +1,10 @@
 # Basic Banking System
 
 ### Introduction
-> ### The Spark Foundation Internship
-> A Frontend Developer Assignment
-> Home Page > Get Started or View Customers or Customers > Select View and Transfer one Customer > 
-  Select sender, receiver and tranfer amount > Transfer > View all Transactions > Home page
+> ### The Spark Foundation Web Development Internship
+> A simple way to transer money among people.
   
-## Technologies Used
+## Technologies Used:
 > ### Front-End :
 * HTML
 * CSS
@@ -16,7 +14,13 @@
 * PHP
 * MYSQL
 
+### Reference:
+> Website Link: https://basicfinancesystem.000webhostapp.com/
+
 ### Flow of the Website
+Home Page > Get Started or View Customers or Customers > Select View and Transfer one Customer > 
+  Select sender, receiver and tranfer amount > Transfer > View all Transactions > Home page
+
 
 ![1_Basic-Banking-System ](https://user-images.githubusercontent.com/86467422/130268755-5a104066-8339-43c0-8a58-54b9951abb48.png)
 

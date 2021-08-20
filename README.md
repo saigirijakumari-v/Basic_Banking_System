@@ -4,7 +4,7 @@
 > ### The Spark Foundation Web Development Internship
 > A simple way to transer money among people.
   
-## Technologies Used:
+### Technologies Used:
 > ### Front-End :
 * HTML
 * CSS

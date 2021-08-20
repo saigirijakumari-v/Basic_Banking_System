@@ -53,8 +53,8 @@
             </div>
 
             <div class="flow">
-                <h2>Flow of Project</h2>
-                <p>Home Page > Get Started or View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Transactions > View all Customers</p>
+                <h2>Flow of the Project</h2>
+                <p>Home Page > Get Started or View Customers or Customers > Select View and Transfer one Customer >  Select sender, receiver and tranfer amount > Transfer > View all Transactions > Home page</p>
             </div>
             <?php require 'footer.html'?>
         </div>
